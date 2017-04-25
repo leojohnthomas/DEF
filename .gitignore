@@ -75,4 +75,5 @@ defwrite/defwrite
 defwrite/defwrite.o
 defzlib/defzlib.o
 defzlib/libdefzlib.a
+include/
 lib/
